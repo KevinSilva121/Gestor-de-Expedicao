@@ -139,5 +139,4 @@ Sugestão: criar arquivo `.env.local` (não comitar) e usar `process.env.VUE_APP
 Arquivo criado com documentação de dependências: `dependencias.md`.
 
 ----
-Última atualização automática: documentação gerada a partir dos arquivos do projeto.
 
